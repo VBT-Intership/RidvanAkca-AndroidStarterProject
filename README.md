@@ -1,0 +1,1 @@
+# RidvanAkca-AndroidStarterProject
